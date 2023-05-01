@@ -1,0 +1,53 @@
+footer{
+    height: 30vh;
+    @include space;
+    width: 100%;
+    font-size: 14px;
+        font-family: 'Jost', sans-serif;
+        .logo{
+.icon {
+        font-size: 20px;
+
+        i {
+            margin: 10px;
+        }
+        }}
+    .categories{
+        width: 20%;
+        @include space;
+        flex-direction: column;
+       
+        }
+    
+        .help{
+            width: 20%;
+            @include space;
+            flex-direction: column;
+            text-align: start;
+        }
+                .servis {
+                    width: 20%;
+                    @include space;
+                    flex-direction: column;
+                }
+                .right{
+                    width: 20%;
+                        @include space;
+                        flex-direction: column;
+                        form{
+                            display: flex;
+                        }
+                        input{
+                            outline: none;
+                            border: none;
+                            border-bottom: 2px solid black;
+                            margin-right: 5px;
+                        }
+                                                   button{
+                                                       outline: none;
+                                                       border: none;
+                                                       border-bottom: 2px solid black;
+                                                   }
+                }
+
+}

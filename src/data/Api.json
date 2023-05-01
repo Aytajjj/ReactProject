@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "model": "Rolex",
+    "title": "Bering Rose Gold Steel Mesh",
+    "photo":
+      "https://wpbingosite.com/wordpress/wrish/wp-content/uploads/2018/10/52-1-1-450x450.jpg",
+    "price": "300"
+  },
+  {
+    "id": 2,
+    "model": "Castus Fiesta",
+    "title": "Bering Aurora Collection",
+    "photo":
+      "https://wpbingosite.com/wordpress/wrish/wp-content/uploads/2021/09/p5.jpg",
+    "price": "470"
+  },
+  {
+    "id": 3,
+    "model": "Maserati",
+    "title": "Original Grain Sapele",
+    "photo":
+      "https://wpbingosite.com/wordpress/wrish/wp-content/uploads/2021/09/p26.jpg",
+    "price": "670"
+  },
+  {
+    "id": 4,
+    "model": "Tag Heur",
+    "title": "Original Grain Sapele",
+    "photo":
+      "https://wpbingosite.com/wordpress/wrish/wp-content/uploads/2021/09/p7.jpg",
+    "price": "7000"
+  },
+  {
+    "id": 5,
+    "model": "Fassil",
+    "title": "Sara Miller Peony",
+    "photo":
+      "https://wpbingosite.com/wordpress/wrish/wp-content/uploads/2021/09/p28.jpg",
+    "price": "5230"
+  }, 
+   {
+    "id": 6,
+    "model": "Fassil",
+    "title": "Miller Peony",
+    "photo":
+      "https://wpbingosite.com/wordpress/wrish/wp-content/uploads/2021/09/p9.jpg",
+    "price": "50"
+  },
+    {
+    "id": 7,
+    "model": "Fassil",
+    "title": "Miller Peony",
+    "photo":
+      "https://wpbingosite.com/wordpress/wrish/wp-content/uploads/2021/09/p15.jpg",
+    "price": "60"
+  } , {
+    "id": 8,
+    "model": "Fassil",
+    "title": "Miller Peony",
+    "photo":
+      "https://wpbingosite.com/wordpress/wrish/wp-content/uploads/2021/09/p14.jpg",
+    "price": "44530"
+  },  {
+    "id": 9,
+    "model": "Fassil",
+    "title": "Miller Peony",
+    "photo":
+      "https://wpbingosite.com/wordpress/wrish/wp-content/uploads/2021/09/p13.jpg",
+    "price": "1120"
+  },  {
+    "id": 10,
+    "model": "Fassil",
+    "title": "Miller Peony",
+    "photo":
+      "https://wpbingosite.com/wordpress/wrish/wp-content/uploads/2021/09/p12.jpg",
+    "price": "500"
+  } , {
+    "id": 11,
+    "model": "Fassil",
+    "title": "Miller Peony",
+    "photo":
+      "https://wpbingosite.com/wordpress/wrish/wp-content/uploads/2021/09/p11.jpg",
+    "price": "235"
+  },
+  {
+    "id": 12,
+    "model": "Fassil",
+    "title": "Miller Peony",
+    "photo":
+      "https://wpbingosite.com/wordpress/wrish/wp-content/uploads/2021/09/p10.jpg",
+    "price": "2785"
+  },
+  {
+    "id": 13,
+    "model": "Fassil",
+    "title": "Miller Peony",
+    "photo":
+      "https://wpbingosite.com/wordpress/wrish/wp-content/uploads/2021/09/p23.jpg",
+    "price": "235"
+  }
+]
