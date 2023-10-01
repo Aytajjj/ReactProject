@@ -10,7 +10,6 @@ import { ThemeContext } from "../context/ThemeContext";
 const SingleCard = ({ photo, title,  price, product ,id }) => {
    const { totalItems } = useCart();
    const [mode, setMode] = useContext(ThemeContext);
-
    const { i18n, t } = useTranslation();
   const { addItem } = useCart();
   return (
